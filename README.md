@@ -1,4 +1,4 @@
-# Hello IMT Douai
+# Hello IMT Lille
 
 ## Getting Started
 
