@@ -8,3 +8,6 @@ bla bla bla
 
 blabla 
 
+## CONTRIBUTORS
+
+blablabla 
