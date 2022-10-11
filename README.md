@@ -1,4 +1,4 @@
-# Hello IMT
+# Hello IMT Lille
 
 ## Getting Started
 
