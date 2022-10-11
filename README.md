@@ -1,4 +1,4 @@
-# Hello IMT
+# Hello IMT Douai
 
 ## Getting Started
 
